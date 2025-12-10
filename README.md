@@ -1,2 +1,11 @@
-# สวัดดีค่ะ ดิฉัน ชื่อ ญดา แสงอินทร์ เป็นนักศึกษาจาก มหาลัย เกษตร ที่อยากได้งานมาทำ
-Hi! I'm Yada
+### Hi there! I'm Yada Saengin, but you can call me View 👋  
+I'm a third-year student at Kasetsart University, Sriracha Campus,  
+majoring in Digital Science and Technology (DST).
+
+I’m interested in data analysis and continuously improving my skills in this field.  
+I also enjoy working on web design and web development<br>
+and I aim to build my career in the tech industry — including data analysis, web design, and web development.
+
+Nice to meet you all! ✨
+
+
