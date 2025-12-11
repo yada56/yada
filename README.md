@@ -8,8 +8,8 @@ and I aim to build my career in the tech industry — including data analysis, w
 
 Nice to meet you all! ✨
 ---
-## I am currently improving my coding skills.
-The programming languages I want to get better at are ##Python and PHP##💕.
+## I am currently improving my coding skills.##
+The programming languages I want to get better at are Python and PHP💕.
 ---
 ## My Project 
 - Ai Model Training <br>
