@@ -7,5 +7,6 @@ I also enjoy working on web design and web development<br>
 and I aim to build my career in the tech industry — including data analysis, web design, and web development.
 
 Nice to meet you all! ✨
+---
 
 
