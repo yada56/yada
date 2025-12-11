@@ -8,7 +8,7 @@ and I aim to build my career in the tech industry — including data analysis, w
 
 Nice to meet you all! ✨
 ---
-## I am currently improving my coding skills.##
+I am currently improving my coding skills.##
 The programming languages I want to get better at are Python and PHP💕.
 ---
 ## My Project 
@@ -25,3 +25,5 @@ My main role was Data Cleaning and preparing the data for analysis. <br> I organ
 his is a website that provides brain-training games for elderly people. <br> It helps improve memory, attention, thinking, and decision-making. The website includes 4 games: Spot the Difference, Math Game, Maze Game, and Memory Game. <br> My role was to design the UI, create the game ideas and gameplay, research cognitive skills in elderly people, and create the Data Flow Diagram
 [Eldermind](http://www.eldermindgames.lnw.mn/)
 ---
+📬 Contact Me 
+✉️ Email: Yada.san2547@gmail.com
